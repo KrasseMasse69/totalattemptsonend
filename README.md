@@ -45,8 +45,6 @@ Found a bug? Open an [issue](https://github.com/KrasseMasse69/totalattemptsonend
 
 - **Mxfty** – Development
 - [Geode SDK](https://geode-sdk.org) – Modding framework
-- **Mxfty** — Development
-- **Geode team** — For the amazing modding framework
 
 ## License
 
