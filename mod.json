@@ -1,0 +1,33 @@
+{
+  "geode": "5.7.1",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "mxfty.totalattemptsonend",
+  "name": "Total Attempts On End",
+  "version": "v1.0.0",
+  "developer": "Mxfty",
+  "description": "Shows total level attempts and jumps instead of session-only stats on the level complete screen. Fully configurable in settings.",
+  "repository": "https://github.com/KrasseMasse69/totalattemptsonend",
+  "icon": "logo.png",
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  },
+  "settings": {
+    "total-attempts": {
+      "name": "Show Total Attempts",
+      "description": "Show total level attempts instead of session attempts",
+      "type": "bool",
+      "default": true
+    },
+    "total-jumps": {
+      "name": "Show Total Jumps",
+      "description": "Show total level jumps instead of session jumps",
+      "type": "bool",
+      "default": true
+    }
+  }
+}
