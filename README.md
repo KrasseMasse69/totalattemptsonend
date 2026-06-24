@@ -29,7 +29,6 @@ You can toggle each stat on or off in the mod settings:
 2. Check or uncheck any of the three options:
    - **Show Total Attempts**
    - **Show Total Playtime**
-   - **Show Total Jumps**
 
 ## Usage
 
@@ -44,8 +43,3 @@ Found a bug? Open an [issue](https://github.com/KrasseMasse69/totalattemptsonend
 
 - **Mxfty** – Development
 - [Geode SDK](https://geode-sdk.org) – Modding framework
-
-## License
-
-MIT
-This mod is licensed under **MIT**. Feel free to poke around and learn from it!
