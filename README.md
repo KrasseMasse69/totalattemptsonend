@@ -7,8 +7,6 @@
 
 A Geometry Dash mod that shows **total** level stats (attempts, playtime, jumps) on the level complete screen instead of session-only stats.
 
-<img src="./logo.png" alt="TotalAttemptsOnEnd logo" />
-
 ## Features
 **TotalAttemptsOnEnd** is a Geometry Dash mod that shows your **lifetime** level stats on the "Level Complete!" screen. Instead of only seeing session attempts, playtime, and jumps, this mod replaces those numbers with the total amount you've accumulated across all attempts.
 
