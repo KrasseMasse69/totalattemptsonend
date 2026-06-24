@@ -13,7 +13,6 @@ A Geometry Dash mod that shows **total** level stats (attempts, playtime, jumps)
 
 - **Total Attempts** – See how many times you've *really* attempted a level
 - **Total Playtime** – Lifetime playtime instead of just the run's time
-- **Total Jumps** – All jumps you've ever made in that level
 - **Fully Configurable** – Toggle each stat on/off in Geode's mod settings
   
 ## Why?
