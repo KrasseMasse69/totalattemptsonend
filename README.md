@@ -29,11 +29,6 @@ You can toggle each stat on or off in the mod settings:
    - **Show Total Attempts**
    - **Show Total Playtime**
 
-## Usage
-
-After completing a level, the stats on the "Level Complete!" screen will show your lifetime totals.  
-Open **Geode → Mods → TotalAttemptsOnEnd** to toggle each stat on/off.
-
 ## Reporting bugs
 
 Found a bug? Open an [issue](https://github.com/KrasseMasse69/totalattemptsonend/issues) on GitHub.
